@@ -1,0 +1,23 @@
+# ninja log v5
+0	1566	7329449530018319	CMakeFiles/Practice_1.dir/main.cpp.obj	c4c3cc54680e338d
+33	2623	7329458488818174	CMakeFiles/Practice_1.dir/SubSubClasses/TyreOff.cpp.obj	bfc9681d253149a6
+30	2632	7329458488858182	CMakeFiles/Practice_1.dir/SubSubClasses/SideJack.cpp.obj	1d57d4f80086ff76
+8	2637	7329458488878188	CMakeFiles/Practice_1.dir/SubSubClasses/LollipopMan.cpp.obj	fea4dcc0ac5f9a67
+11	2642	7329458488928200	CMakeFiles/Practice_1.dir/SubSubClasses/FrontJack.cpp.obj	929e053aa788298e
+17	2643	7329458488928200	CMakeFiles/Practice_1.dir/SubClasses/TeamDriverA.cpp.obj	18b8850dda610d01
+27	2693	7329458489582928	CMakeFiles/Practice_1.dir/SubSubClasses/RearJack.cpp.obj	ee9d78aa8cccf90f
+3	2713	7329458489783947	CMakeFiles/Practice_1.dir/SubClasses/TeamDriverB.cpp.obj	f053645abd78b86f
+20	2745	7329458490101004	CMakeFiles/Practice_1.dir/ParentClasses/F1Team.cpp.obj	d83f03978e1611f7
+14	3116	7329458493794965	CMakeFiles/Practice_1.dir/SubClasses/PitCrewTeam.cpp.obj	ab4a5a0ebb682db3
+24	3142	7329458494037708	CMakeFiles/Practice_1.dir/main.cpp.obj	c4c3cc54680e338d
+2624	4266	7329458505332554	CMakeFiles/Practice_1.dir/SubSubClasses/TyreGunner.cpp.obj	4dc33e5c561c9d08
+2632	4270	7329458505375610	CMakeFiles/Practice_1.dir/SubSubClasses/WingFlap.cpp.obj	b9ce0fb3ae2ad757
+2637	4316	7329458505818646	CMakeFiles/Practice_1.dir/SubSubClasses/TyreOn.cpp.obj	c7f11d9bcb6df07c
+3	1291	7329463300538661	CMakeFiles/Practice_1.dir/SubClasses/TeamDriverA.cpp.obj	18b8850dda610d01
+1291	1501	7329463302633589	Practice_1.exe	15006dbb9f3c5518
+2	1492	7329465441586201	CMakeFiles/Practice_1.dir/main.cpp.obj	c4c3cc54680e338d
+1493	1704	7329465443681971	Practice_1.exe	15006dbb9f3c5518
+3	1436	7329468388019746	CMakeFiles/Practice_1.dir/main.cpp.obj	c4c3cc54680e338d
+1436	1642	7329468390048047	Practice_1.exe	15006dbb9f3c5518
+3	1608	7329472107259927	CMakeFiles/Practice_1.dir/main.cpp.obj	c4c3cc54680e338d
+1608	1830	7329472109430580	Practice_1.exe	15006dbb9f3c5518
